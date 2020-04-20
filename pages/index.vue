@@ -11,11 +11,6 @@
 <script>
 
 
-export default {
-  
-}
-
-
 import Counter from '~/components/Counter.vue'
 export default {
   components: {
